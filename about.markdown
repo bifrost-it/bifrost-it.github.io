@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-{{< figure src="/images/BifrostLogo.png" title="" >}}
 
 _Bifrost_ specializes in modernizing legacy systems that are hard and expensive to maintain.
 Generaly legacy system have been through multiple changes and hands which leave characteristic traits:
