@@ -32,10 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-analytics:
-  provider: "google-universal"
-  google:
-  tracking_id: "UA-149563467-1"
+
+google_analytics: UA-149563467-1
 
 
 
