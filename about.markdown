@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Bifrost](/assets/BifrostLogo.png)
 
 _Bifrost_ specializes in modernizing legacy systems that are hard and expensive to maintain.
 Generaly legacy system have been through multiple changes and hands which leave characteristic traits:
@@ -24,12 +25,4 @@ We have extensive experience of salvaging this projects by:
 * One objective is to reduce the system footprint
 * Reduce tedious work and increase creative work
 
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

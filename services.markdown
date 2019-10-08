@@ -3,6 +3,8 @@ layout: page
 title: Services
 permalink: /services/
 ---
+![Bifrost](/assets/BifrostLogo.png)
+
 _Bifrost_ provides the next Services:
 We specialize in top quality engineers, arquitects, designers and developers. On average our team has 15+ years of experience.
 
