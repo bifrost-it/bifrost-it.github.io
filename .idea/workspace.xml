@@ -26,9 +26,9 @@
       <recent name="$PROJECT_DIR$/_include" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/_include" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570524439637</updated>
-      <workItem from="1570524441097" duration="18249000" />
+      <workItem from="1570524441097" duration="19049000" />
     </task>
     <task id="LOCAL-00001" summary="cname">
       <created>1570717323185</created>
@@ -153,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571146424633</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="favicon">
+      <created>1571146778334</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571146778334</updated>
+    </task>
+    <task id="LOCAL-00016" summary="favicon">
+      <created>1571146910464</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571146910464</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
