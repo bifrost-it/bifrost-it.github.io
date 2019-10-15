@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce8ad09-0c18-4a2c-9fa3-ff43c59c6c32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_include/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_include/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/android-chrome-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/_include/android-chrome-96x96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/_include/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_include/browserconfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/_include/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/_include/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/_include/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/_include/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_include/safari-pinned-tab.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/_include/site.webmanifest" afterDir="false" />
-    </list>
+    <list default="true" id="0ce8ad09-0c18-4a2c-9fa3-ff43c59c6c32" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +21,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_include" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -63,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570524439637</updated>
-      <workItem from="1570524441097" duration="15222000" />
+      <workItem from="1570524441097" duration="15492000" />
     </task>
     <task id="LOCAL-00001" summary="cname">
       <created>1570717323185</created>
@@ -107,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571142342258</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="favicon">
+      <created>1571142854895</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571142854895</updated>
+    </task>
+    <task id="LOCAL-00008" summary="favicon">
+      <created>1571143013629</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571143013629</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
